@@ -18,8 +18,6 @@
 1. **Download** `FirewallRuleCreator.exe` from the [Releases](https://github.com/b0rx/FirewallRuleCreator/releases) page.  
 2. Run the `.exe` – **No installation required!**  
 
-🔴 **Note:** You must run the program as **Administrator** to modify firewall rules.
-
 ## 🎮 How to Use
 1. Open the program and **select one or more `.exe` files** to block/allow.  
 2. Choose the **rule name**, **action (Allow/Block)**, and **direction (Inbound/Outbound)**.  
