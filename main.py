@@ -1,5 +1,5 @@
 # © 2025 B0rx. All rights reserved.
-# Version: v0.3 Beta / 11.11.2025 /
+# Version: v0.3 Beta / 11.11.2025
 
 import customtkinter as ctk
 from tkinter import filedialog, messagebox
@@ -321,3 +321,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
