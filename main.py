@@ -1,15 +1,14 @@
 # © 2025 B0rx. All rights reserved.
 # Version: v0.3 Beta / 11.11.2025
 
+import sys
+import ctypes
+import threading
+import subprocess
 import customtkinter as ctk
 from tkinter import filedialog, messagebox
-import os
-import subprocess
-import threading
-import ctypes
-import sys
-from pathlib import Path
 from typing import Dict, Set
+from pathlib import Path
 
 class FirewallRuleCreator:
     def __init__(self, root):
@@ -321,4 +320,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
