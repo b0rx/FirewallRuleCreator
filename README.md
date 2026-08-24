@@ -1,3 +1,5 @@
+
+
 # FirewallRuleCreator
 
 **FirewallRuleCreator** is a simple and fast Windows tool that allows you to quickly add or remove firewall rules for multiple applications without manually navigating through advanced Windows firewall settings.
@@ -32,4 +34,9 @@ If you want to modify or compile the program yourself, follow these steps:
 ### Install Dependencies:
 ```bash
 pip install PySide6
+```
+
+### Run the Program:
+```bash
+python main.py
 ```
